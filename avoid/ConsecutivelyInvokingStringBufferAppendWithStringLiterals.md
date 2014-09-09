@@ -1,4 +1,5 @@
 #Consecutively Invoking String Buffer Append With String Literals
+
 ```
 public class ConsecutivelyInvokingStringBufferAappendWithStringLiteralsRejected
 {
