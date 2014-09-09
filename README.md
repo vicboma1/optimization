@@ -8,6 +8,7 @@ Optimization
 * [New Integer toString](https://github.com/vicboma1/optimization/blob/master/avoid/NewIntegerToString.md)
 * [Creating thread without run method](https://github.com/vicboma1/optimization/blob/master/avoid/CreatingThreadWithoutRunMethod.md)
 * [Consecutively invoking string buffer append with string literals](https://github.com/vicboma1/optimization/blob/master/avoid/ConsecutivelyInvokingStringBufferAappendWithStringLiterals.md)
+* [Avoid Instantiation For Get Class](https://github.com/vicboma1/optimization/blob/master/avoid/AvoidInstantiationForGetClass.md)
 
 ##Use
 
