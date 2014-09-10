@@ -8,10 +8,12 @@ Optimization (WIP)
 * [Using math class methods on constants](https://github.com/vicboma1/optimization/blob/master/avoid/UsingMathClassMethodsOnConstants.md)
 * [New Integer toString](https://github.com/vicboma1/optimization/blob/master/avoid/NewIntegerToString.md)
 * [Using Java Lang Class For Name](https://github.com/vicboma1/optimization/blob/master/avoid/UsingJavaLangClassForName.md)
+* [Empty if](https://github.com/vicboma1/optimization/blob/master/avoid/EmptyIf.md)
 * [Creating thread without run method](https://github.com/vicboma1/optimization/blob/master/avoid/CreatingThreadWithoutRunMethod.md)
 * [Consecutively invoking string buffer append with string literals](https://github.com/vicboma1/optimization/blob/master/avoid/ConsecutivelyInvokingStringBufferAappendWithStringLiterals.md)
 * [Instantiation For Get Class](https://github.com/vicboma1/optimization/blob/master/avoid/AvoidInstantiationForGetClass.md)
 * [Synchronized Modifier In Method](https://github.com/vicboma1/optimization/blob/master/avoid/SynchronizedModifierInMethod.md)
+
 
 ##Use
 * [Ternary operator](https://github.com/vicboma1/optimization/blob/master/use/EntrySetInsteadkeySet.md)
