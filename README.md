@@ -4,6 +4,7 @@ Optimization (WIP)
 ##Avoid
 
 * [Constant expressions in loops](https://github.com/vicboma1/optimization/blob/master/avoid/ConstantExpressionsInLoops.md)
+* [Duplication Code](https://github.com/vicboma1/refactoring/blob/master/composingmethods/DuplicationCode.md)
 * [Using math class methods on constants](https://github.com/vicboma1/optimization/blob/master/avoid/UsingMathClassMethodsOnConstants.md)
 * [New Integer toString](https://github.com/vicboma1/optimization/blob/master/avoid/NewIntegerToString.md)
 * [Creating thread without run method](https://github.com/vicboma1/optimization/blob/master/avoid/CreatingThreadWithoutRunMethod.md)
