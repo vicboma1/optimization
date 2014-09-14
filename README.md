@@ -23,10 +23,12 @@ Optimization (WIP)
 * [Dispose SWT Control](https://github.com/vicboma1/optimization/blob/master/use/DisposeSWTControl.md)
 * [String length to compare empty string variables](https://github.com/vicboma1/optimization/blob/master/use/StringLengthToCompareEmptyStringVariables.md)
 * [Immutable constant objects](https://github.com/vicboma1/optimization/blob/master/use/ImmutableConstantObjects.md)
+* [Constant Field static](DeclareConstantFieldStatic.md)
 
 
 ##References : 
 
 * Java Performance Tuning By Jack Shirazi.
 * AppPerfect learn to java.
+* Wiki Eclipse, https://wiki.eclipse.org/Eclipse_Corner
 * My own know.
