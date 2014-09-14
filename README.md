@@ -9,6 +9,7 @@ Optimization (WIP)
 * [New Integer toString](https://github.com/vicboma1/optimization/blob/master/avoid/NewIntegerToString.md)
 * [Using Java Lang Class For Name](https://github.com/vicboma1/optimization/blob/master/avoid/UsingJavaLangClassForName.md)
 * [Empty if](https://github.com/vicboma1/optimization/blob/master/avoid/EmptyIf.md)
+* [Using Message Format](https://github.com/vicboma1/optimization/blob/master/avoid/UsingMessageFormat.md)
 * [Creating thread without run method](https://github.com/vicboma1/optimization/blob/master/avoid/CreatingThreadWithoutRunMethod.md)
 * [Consecutively invoking string buffer append with string literals](https://github.com/vicboma1/optimization/blob/master/avoid/ConsecutivelyInvokingStringBufferAappendWithStringLiterals.md)
 * [Instantiation For Get Class](https://github.com/vicboma1/optimization/blob/master/avoid/AvoidInstantiationForGetClass.md)
@@ -16,8 +17,8 @@ Optimization (WIP)
 
 
 ##Use
-* [Ternary operator](https://github.com/vicboma1/optimization/blob/master/use/EntrySetInsteadkeySet.md)
-* [EntrySet Instead of keySet](https://github.com/vicboma1/optimization/blob/master/use/TernaryOperator.md)
+* [EntrySet Instead of keySet](https://github.com/vicboma1/optimization/blob/master/use/EntrySetInsteadkeySet.md)
+* [Ternary operator ](https://github.com/vicboma1/optimization/blob/master/use/TernaryOperator.md)
 * [String length to compare empty string variables](https://github.com/vicboma1/optimization/blob/master/use/StringLengthToCompareEmptyStringVariables.md)
 * [Immutable constant objects](https://github.com/vicboma1/optimization/blob/master/use/ImmutableConstantObjects.md)
 
