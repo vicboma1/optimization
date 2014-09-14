@@ -20,6 +20,7 @@ Optimization (WIP)
 ##Use
 * [EntrySet Instead of keySet](https://github.com/vicboma1/optimization/blob/master/use/EntrySetInsteadkeySet.md)
 * [Ternary operator ](https://github.com/vicboma1/optimization/blob/master/use/TernaryOperator.md)
+* [Dispose SWT Control](https://github.com/vicboma1/optimization/blob/master/use/DisposeSWTControl.md)
 * [String length to compare empty string variables](https://github.com/vicboma1/optimization/blob/master/use/StringLengthToCompareEmptyStringVariables.md)
 * [Immutable constant objects](https://github.com/vicboma1/optimization/blob/master/use/ImmutableConstantObjects.md)
 
