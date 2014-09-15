@@ -18,6 +18,7 @@ Optimization (WIP)
 * [Instantiation For Get Class](https://github.com/vicboma1/optimization/blob/master/avoid/AvoidInstantiationForGetClass.md)
 * [Synchronized Modifier In Method](https://github.com/vicboma1/optimization/blob/master/avoid/SynchronizedModifierInMethod.md)
 * [Repeated Casting](https://github.com/vicboma1/optimization/blob/master/avoid/RepeatedCasting.md)
+* [New With String](https://github.com/vicboma1/optimization/blob/master/avoid/NewWithString.md)
 * [String Concatenation In Loop](https://github.com/vicboma1/optimization/blob/master/avoid/StringConcatenationInLoop.md)
 
 ##Use
