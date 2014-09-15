@@ -4,12 +4,11 @@ Loop Invariant Code Motion
 ```
 public class LoopInvariantCodeMotionRejected
 {     
-    public Integer method()
+    public Integer method(Integer x, Integer y, Integer[] z)
     {
-        String name = "Victor";
-        for(int i = 0; i < z; i++)
+        for(int i = 0; i < z.length; i++)
         {
-           name += name +"_"+ i;
+            z[i] = x * Math.abs(y);	
         }
      }
 }
@@ -21,13 +20,12 @@ public class LoopInvariantCodeMotionRejected
 
 public class LoopInvariantCodeMotionResolved
 {
-	 public void method()
-     {
-        String name = "Victor";
-        name+="_";
-        for(int i = 0; i < z; i++)
+	public void method(Integer x, Integer y, Integer[] z)
+    {
+        final int result = x * Math.abs(y);	
+        for(int i = 0; i < z.length; i++)
         {
-           name += name + i;
+            z[i] = result;
         }
     }
 }
