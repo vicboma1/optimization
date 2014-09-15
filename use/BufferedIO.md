@@ -2,7 +2,7 @@ Buffered IO
 ============
 
 ```
-public class BufferedIO
+public class BufferedIORejected
 {
 	public static void copy(String from, String to) throws IOException
     {
@@ -43,7 +43,7 @@ public class BufferedIO
 
 ```
 
-public class BufferedIO
+public class BufferedIOResolved
 {
 	public static void copy(String from, String to) throws IOException
     {

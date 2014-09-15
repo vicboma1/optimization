@@ -2,7 +2,7 @@ JDBC Connections
 ========
 
 ```
-public class JDBCConnections
+public class JDBCConnectionsRejected
 {
     public void method() 
     {
@@ -22,7 +22,7 @@ public class JDBCConnections
    
 ```
    
-public class JDBCConnections
+public class JDBCConnectionsResolved
 {
     public void method()
     {

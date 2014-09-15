@@ -3,7 +3,7 @@ Repeated Casting
 
 
 ```
-public class RepeatedCasting
+public class RepeatedCastingRejected
 {
 	public void method(Vehicle vehicle)
     {
@@ -17,7 +17,7 @@ public class RepeatedCasting
 
 ```
 
-public class RepeatedCasting
+public class RepeatedCastingResolved
 {
 	public void method(Vehicle vehicle)
     { 

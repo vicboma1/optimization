@@ -3,7 +3,7 @@ WriteByte Method in loop
 
 
 ```
-public static void main(String args[])
+public static void main(String args[]) //Rejected
 {
     final int ZERO = 0;
     final int ONE = 1;
@@ -45,7 +45,7 @@ public static void main(String args[])
 ![](http://www.iconki.com/icons/Software-Applications/32x32-Applications-Basics/arrow_down_blue.png)
 
 ```
-public static void main(String args[])
+public static void main(String args[]) //Resolved
 {
     final int ZERO = 0;
     final char ONE = '1';

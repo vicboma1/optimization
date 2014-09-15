@@ -2,7 +2,7 @@ Using MessageFormat
 =======
 
 ```
-public class UsingMessageFormat
+public class UsingMessageFormatRejected
 {
 	public void method() 
 	{
@@ -24,7 +24,7 @@ public class UsingMessageFormat
 
 ```
 
-public class UsingMessageFormat
+public class UsingMessageFormatResolved
 {
 	public void method() 
 	{

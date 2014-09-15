@@ -2,7 +2,7 @@ JDBC Resources
 ========
 
 ```
-public class JDBCResources
+public class JDBCResourcesRejected
 {
     public void method() 
     {
@@ -36,7 +36,7 @@ public class JDBCResources
    
 ```
    
-public class JDBCResources
+public class JDBCResourcesResolved
 {
     public void method()
     {

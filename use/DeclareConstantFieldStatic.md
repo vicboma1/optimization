@@ -2,7 +2,7 @@ Declare Constant Field Static
 ==============
 
 ```
-public class DeclareConstantFieldStatic
+public class DeclareConstantFieldStaticRejected
 {
 	final int MAX_INTEGER = Integer.MAX_VALUE;
     final int MIN_INTEGER = Integer.MIN_VALUE
@@ -15,7 +15,7 @@ public class DeclareConstantFieldStatic
 
 ```
 
-public class DeclareConstantFieldStatic
+public class DeclareConstantFieldStaticResolved
 {
 	static final int MAX_INTEGER = Integer.MAX_VALUE;
     static final int MIN_INTEGER = Integer.MIN_VALUE

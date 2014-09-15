@@ -3,7 +3,7 @@ Dispose SWT Control
 
 
 ```
-public class DisposeSWTControl
+public class DisposeSWTControlRejected
 {
 	public void createControl(Composite cmp, int style)
     {
@@ -19,7 +19,7 @@ public class DisposeSWTControl
 
 ```
 
-public class DisposeSWTControl
+public class DisposeSWTControlResolved
 {
 	public void createControl(Composite cmp, int style)
     {
