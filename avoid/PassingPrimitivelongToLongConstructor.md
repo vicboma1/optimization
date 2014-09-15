@@ -6,7 +6,7 @@ public class PassingPrimitivelongToLongConstructorRejected
 {
     public void method() 
     {
-        Long i = new Long(3.0);
+        Long i = new Long(3L);
         ...
     }
 }
@@ -20,7 +20,7 @@ public class PassingPrimitivelongToLongConstructorResolved
 {
     public void method()
     {
-        Long i = Long.valueOf(3.0);
+        Long i = Long.valueOf(3L);
          ...
     }
 }

@@ -1,12 +1,12 @@
-Passing Primitive int To Integer Constructor
+Passing Primitive byte To Byte Constructor
 =========
 
 ```
-public class PassingPrimitiveintToIntegerConstructorRejected
+public class PassingPrimitivebyteToByteConstructorRejected
 {
     public void method() 
     {
-        Integer i = new Integer(3);
+        Byte i = new Byte(3);
         ...
     }
 }
@@ -16,11 +16,11 @@ public class PassingPrimitiveintToIntegerConstructorRejected
    
    ```
    
-public class PassingPrimitiveIntToIntegerConstructorResolved
+public class PassingPrimitivebyteToByteConstructorResolved
 {
     public void method()
     {
-        Integer i = Integer.valueOf(3);
+        Byte i = Byte.valueOf(3);
          ...
     }
 }

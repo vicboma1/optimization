@@ -25,6 +25,9 @@ Optimization (WIP)
 * [Passing Primitive int To Integer Constructor](https://github.com/vicboma1/optimization/blob/master/avoid/PassingPrimitiveIntToIntegerConstructor.md)
 * [Passing Primitive long To Long Constructor](https://github.com/vicboma1/optimization/blob/master/avoid/PassingPrimitivelongToLongConstructor.md)
 * [Passing Primitive short To Short Constructor](https://github.com/vicboma1/optimization/blob/master/avoid/PassingPrimitiveshortToShortConstructor.md)
+* [Passing Primitive byte To Byte Constructor](https://github.com/vicboma1/optimization/blob/master/avoid/PassingPrimitivebyteToByteConstructor.md)
+* [Passing Primitive char To Character Constructor](https://github.com/vicboma1/optimization/blob/master/avoid/PassingPrimitivecharToCharacterConstructor.md)
+
 
 
 ##Use
