@@ -23,6 +23,9 @@ Optimization (WIP)
 * [String Concatenation In Loop](https://github.com/vicboma1/optimization/blob/master/avoid/StringConcatenationInLoop.md)
 * [Passing Primitive double To Double Constructor](https://github.com/vicboma1/optimization/blob/master/avoid/PassingPrimitiveDoubleToDoubleConstructor.md)
 * [Passing Primitive int To Integer Constructor](https://github.com/vicboma1/optimization/blob/master/avoid/PassingPrimitiveIntToIntegerConstructor.md)
+* [Passing Primitive long To Long Constructor](https://github.com/vicboma1/optimization/blob/master/avoid/PassingPrimitivelongToLongConstructor.md)
+* [Passing Primitive short To Short Constructor](https://github.com/vicboma1/optimization/blob/master/avoid/PassingPrimitiveshortToShortConstructor.md)
+
 
 ##Use
 * [EntrySet Instead of keySet](https://github.com/vicboma1/optimization/blob/master/use/EntrySetInsteadkeySet.md)
