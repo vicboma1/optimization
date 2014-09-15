@@ -34,6 +34,7 @@ Optimization (WIP)
 ##Close
 * [JDBC Connections](https://github.com/vicboma1/optimization/blob/master/close/JDBCConnections.md)
 * [JDBC Resources](https://github.com/vicboma1/optimization/blob/master/close/JDBCResources.md)
+* [Stream](https://github.com/vicboma1/optimization/blob/master/close/Stream.md)
 
 
 
