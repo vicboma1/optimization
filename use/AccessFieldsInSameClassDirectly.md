@@ -36,7 +36,7 @@ public class AccessFieldsInSameClassDirectlyResolved
 
     public void save()
     {
-        if (modified) //correction
+        if (modified) 
         {
             ...
         }
