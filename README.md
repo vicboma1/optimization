@@ -21,6 +21,7 @@ Optimization (WIP)
 * [Repeated Casting](https://github.com/vicboma1/optimization/blob/master/avoid/RepeatedCasting.md)
 * [New With String](https://github.com/vicboma1/optimization/blob/master/avoid/NewWithString.md)
 * [String Concatenation In Loop](https://github.com/vicboma1/optimization/blob/master/avoid/StringConcatenationInLoop.md)
+* [Passing Primitive double To Double Constructor](https://github.com/vicboma1/optimization/blob/master/avoid/PassingPrimitiveDoubleToDoubleConstructor.md)
 
 ##Use
 * [EntrySet Instead of keySet](https://github.com/vicboma1/optimization/blob/master/use/EntrySetInsteadkeySet.md)
