@@ -40,6 +40,7 @@ Optimization (WIP)
 * [Access Fields In Same Class Directly](https://github.com/vicboma1/optimization/blob/master/use/AccessFieldsInSameClassDirectly.md)
 * [Boolean Operators](https://github.com/vicboma1/optimization/blob/master/use/BooleanOperators.md)
 * [Methods Final](https://github.com/vicboma1/optimization/blob/master/use/MethodFinal.md)
+* [Single Quotes When Concatenating Character To String](https://github.com/vicboma1/optimization/blob/master/use/SingleQuotesWhenConcatenatingCharacterToString.md)
 * [System ArrayCopy](https://github.com/vicboma1/optimization/blob/master/use/ArrayCopy.md)
 
 ##Close
