@@ -27,8 +27,8 @@ Optimization (WIP)
 * [Buffered IO](https://github.com/vicboma1/optimization/blob/master/use/BufferedIO.md)
 
 ##Close
-* [JDBC Connections](https://github.com/vicboma1/optimization/blob/master/use/JDBCConnections.md)
-* [JDBC Resources](https://github.com/vicboma1/optimization/blob/master/use/JDBCResources.md)
+* [JDBC Connections](https://github.com/vicboma1/optimization/blob/master/close/JDBCConnections.md)
+* [JDBC Resources](https://github.com/vicboma1/optimization/blob/master/close/JDBCResources.md)
 
 
 
