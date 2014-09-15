@@ -26,6 +26,10 @@ Optimization (WIP)
 * [Constant Field static](https://github.com/vicboma1/optimization/blob/master/use/DeclareConstantFieldStatic.md)
 * [Buffered IO](https://github.com/vicboma1/optimization/blob/master/use/BufferedIO.md)
 
+##Close
+* [JDBC Connections](https://github.com/vicboma1/optimization/blob/master/use/JDBCConnections.md)
+
+
 ##References : 
 
 * Java Performance Tuning By Jack Shirazi.
