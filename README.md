@@ -27,8 +27,7 @@ Optimization (WIP)
 * [Passing Primitive short To Short Constructor](https://github.com/vicboma1/optimization/blob/master/avoid/PassingPrimitiveshortToShortConstructor.md)
 * [Passing Primitive byte To Byte Constructor](https://github.com/vicboma1/optimization/blob/master/avoid/PassingPrimitivebyteToByteConstructor.md)
 * [Passing Primitive char To Character Constructor](https://github.com/vicboma1/optimization/blob/master/avoid/PassingPrimitivecharToCharacterConstructor.md)
-* [Passing Primitive char To Character Constructor](https://github.com/vicboma1/optimization/blob/master/avoid/PassingPrimitivebooleanToBooleanConstructor.md)
-
+* [Passing Primitive booelan To Boolean Constructor](https://github.com/vicboma1/optimization/blob/master/avoid/PassingPrimitivebooleanToBooleanConstructor.md)
 
 ##Use
 * [EntrySet Instead of keySet](https://github.com/vicboma1/optimization/blob/master/use/EntrySetInsteadkeySet.md)
@@ -38,6 +37,7 @@ Optimization (WIP)
 * [Immutable constant objects](https://github.com/vicboma1/optimization/blob/master/use/ImmutableConstantObjects.md)
 * [Constant Field static](https://github.com/vicboma1/optimization/blob/master/use/DeclareConstantFieldStatic.md)
 * [Buffered IO](https://github.com/vicboma1/optimization/blob/master/use/BufferedIO.md)
+* [Access Fields In Same Class Directly](https://github.com/vicboma1/optimization/blob/master/use/AccessFieldsInSameClassDirectly.md)
 * [Boolean Operators](https://github.com/vicboma1/optimization/blob/master/use/BooleanOperators.md)
 * [Methods Final](https://github.com/vicboma1/optimization/blob/master/use/MethodFinal.md)
 * [System ArrayCopy](https://github.com/vicboma1/optimization/blob/master/use/ArrayCopy.md)
