@@ -4,8 +4,8 @@ Optimization (WIP)
 ##Avoid
 
 * [Constant expressions in loops](https://github.com/vicboma1/optimization/blob/master/avoid/ConstantExpressionsInLoops.md)
-* [Boolean Array](https://github.com/vicboma1/optimization/blob/master/avoid/booleanArray.md)
-* [Duplication Code](https://github.com/vicboma1/refactoring/blob/master/composingmethods/DuplicationCode.md)
+* [Boolean Array](https://github.com/vicboma1/optimization/blob/master/avoid/BooleanArray.md)
+* [Duplication Code](https://github.com/vicboma1/optimization/blob/master/avoid/DuplicationCode.md)
 * [Using math class methods on constants](https://github.com/vicboma1/optimization/blob/master/avoid/UsingMathClassMethodsOnConstants.md)
 * [WriteByte Method in loop](https://github.com/vicboma1/optimization/blob/master/avoid/WriteByteMethodInLoop.md)
 * [New Integer toString](https://github.com/vicboma1/optimization/blob/master/avoid/NewIntegerToString.md)
