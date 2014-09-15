@@ -31,6 +31,7 @@ Optimization (WIP)
 * [Constant Field static](https://github.com/vicboma1/optimization/blob/master/use/DeclareConstantFieldStatic.md)
 * [Buffered IO](https://github.com/vicboma1/optimization/blob/master/use/BufferedIO.md)
 * [Boolean Operators](https://github.com/vicboma1/optimization/blob/master/use/BooleanOperators.md)
+* [Methods Final](https://github.com/vicboma1/optimization/blob/master/use/MethodsFinal.md)
 
 ##Close
 * [JDBC Connections](https://github.com/vicboma1/optimization/blob/master/close/JDBCConnections.md)
