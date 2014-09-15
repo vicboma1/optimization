@@ -28,6 +28,8 @@ Optimization (WIP)
 
 ##Close
 * [JDBC Connections](https://github.com/vicboma1/optimization/blob/master/use/JDBCConnections.md)
+* [JDBC Resources](https://github.com/vicboma1/optimization/blob/master/use/JDBCResources.md)
+
 
 
 ##References : 
