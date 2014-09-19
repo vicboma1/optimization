@@ -43,6 +43,7 @@ Optimization (WIP)
 * [Methods Final](https://github.com/vicboma1/optimization/blob/master/use/MethodFinal.md)
 * [Single Quotes When Concatenating Character To String](https://github.com/vicboma1/optimization/blob/master/use/SingleQuotesWhenConcatenatingCharacterToString.md)
 * [System ArrayCopy](https://github.com/vicboma1/optimization/blob/master/use/ArrayCopy.md)
+* [ArrayList Inplace Of Vector](https://github.com/vicboma1/optimization/blob/master/use/ArrayListInplaceOfVector.md)
 
 ##Close
 * [JDBC Connections](https://github.com/vicboma1/optimization/blob/master/close/JDBCConnections.md)
