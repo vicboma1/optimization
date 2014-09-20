@@ -17,10 +17,6 @@ Optimization (WIP)
 * [Creating thread without run method](https://github.com/vicboma1/optimization/blob/master/avoid/CreatingThreadWithoutRunMethod.md)
 * [Consecutively invoking string buffer append with string literals](https://github.com/vicboma1/optimization/blob/master/avoid/ConsecutivelyInvokingStringBufferAappendWithStringLiterals.md)
 * [Instantiation For Get Class](https://github.com/vicboma1/optimization/blob/master/avoid/AvoidInstantiationForGetClass.md)
-* [Synchronized Modifier In Method](https://github.com/vicboma1/optimization/blob/master/avoid/SynchronizedModifierInMethod.md)
-* [Repeated Casting](https://github.com/vicboma1/optimization/blob/master/avoid/RepeatedCasting.md)
-* [New With String](https://github.com/vicboma1/optimization/blob/master/avoid/NewWithString.md)
-* [String Concatenation In Loop](https://github.com/vicboma1/optimization/blob/master/avoid/StringConcatenationInLoop.md)
 * [Passing Primitive double To Double Constructor](https://github.com/vicboma1/optimization/blob/master/avoid/PassingPrimitiveDoubleToDoubleConstructor.md)
 * [Passing Primitive int To Integer Constructor](https://github.com/vicboma1/optimization/blob/master/avoid/PassingPrimitiveIntToIntegerConstructor.md)
 * [Passing Primitive long To Long Constructor](https://github.com/vicboma1/optimization/blob/master/avoid/PassingPrimitivelongToLongConstructor.md)
@@ -28,6 +24,12 @@ Optimization (WIP)
 * [Passing Primitive byte To Byte Constructor](https://github.com/vicboma1/optimization/blob/master/avoid/PassingPrimitivebyteToByteConstructor.md)
 * [Passing Primitive char To Character Constructor](https://github.com/vicboma1/optimization/blob/master/avoid/PassingPrimitivecharToCharacterConstructor.md)
 * [Passing Primitive booelan To Boolean Constructor](https://github.com/vicboma1/optimization/blob/master/avoid/PassingPrimitivebooleanToBooleanConstructor.md)
+* [Call To Thread Sleep](https://github.com/vicboma1/optimization/blob/master/avoid/CallToThreadSleep.md)
+* [Synchronized Modifier In Method](https://github.com/vicboma1/optimization/blob/master/avoid/SynchronizedModifierInMethod.md)
+* [Repeated Casting](https://github.com/vicboma1/optimization/blob/master/avoid/RepeatedCasting.md)
+* [New With String](https://github.com/vicboma1/optimization/blob/master/avoid/NewWithString.md)
+* [String Concatenation In Loop](https://github.com/vicboma1/optimization/blob/master/avoid/StringConcatenationInLoop.md)
+
 
 ##Use
 * [EntrySet Instead of keySet](https://github.com/vicboma1/optimization/blob/master/use/EntrySetInsteadkeySet.md)
@@ -44,6 +46,8 @@ Optimization (WIP)
 * [Single Quotes When Concatenating Character To String](https://github.com/vicboma1/optimization/blob/master/use/SingleQuotesWhenConcatenatingCharacterToString.md)
 * [System ArrayCopy](https://github.com/vicboma1/optimization/blob/master/use/ArrayCopy.md)
 * [ArrayList Inplace Of Vector](https://github.com/vicboma1/optimization/blob/master/use/ArrayListInplaceOfVector.md)
+* [DataSource instead of DriverManager](https://github.com/vicboma1/optimization/blob/master/use/DataSourceInsteadOfDriverManager.md)
+
 
 ##Close
 * [JDBC Connections](https://github.com/vicboma1/optimization/blob/master/close/JDBCConnections.md)
