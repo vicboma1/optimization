@@ -1,4 +1,4 @@
-Optimization (WIP)
+Optimization 
 ============
 
 ##Avoid
