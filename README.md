@@ -1,6 +1,10 @@
 Optimization 
 ============
 
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/vicboma1/optimization/trend.png)](https://bitdeli.com/free "Bitdeli Badge")[![Analytics](https://ga-beacon.appspot.com/UA-68658653-1/injector/readme)](https://github.com/igrigorik/ga-beacon)
+
+
+
 ##Avoid
 
 * [Constant expressions in loops](https://github.com/vicboma1/optimization/blob/master/avoid/ConstantExpressionsInLoops.md)
@@ -63,7 +67,3 @@ Optimization
 * AppPerfect learn to java.
 * Wiki Eclipse, https://wiki.eclipse.org/Eclipse_Corner
 * My own know.
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/vicboma1/optimization/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
