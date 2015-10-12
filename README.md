@@ -63,3 +63,7 @@ Optimization
 * AppPerfect learn to java.
 * Wiki Eclipse, https://wiki.eclipse.org/Eclipse_Corner
 * My own know.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/vicboma1/optimization/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
