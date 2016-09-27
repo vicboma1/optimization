@@ -1,7 +1,7 @@
 Optimization 
 ============
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/vicboma1/optimization/trend.png)](https://bitdeli.com/free "Bitdeli Badge")[![Analytics](https://ga-beacon.appspot.com/UA-68658653-1/optimization/readme)](https://github.com/igrigorik/ga-beacon)
+[![Analytics](https://ga-beacon.appspot.com/UA-68658653-1/optimization/readme)](https://github.com/igrigorik/ga-beacon)
 
 
 
