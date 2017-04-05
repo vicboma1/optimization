@@ -5,7 +5,7 @@ Optimization
 
 
 
-##Avoid
+## Avoid
 
 * [Constant expressions in loops](https://github.com/vicboma1/optimization/blob/master/avoid/ConstantExpressionsInLoops.md)
 * [Boolean Array](https://github.com/vicboma1/optimization/blob/master/avoid/BooleanArray.md)
@@ -35,7 +35,7 @@ Optimization
 * [String Concatenation In Loop](https://github.com/vicboma1/optimization/blob/master/avoid/StringConcatenationInLoop.md)
 
 
-##Use
+## Use
 * [EntrySet Instead of keySet](https://github.com/vicboma1/optimization/blob/master/use/EntrySetInsteadkeySet.md)
 * [Ternary operator ](https://github.com/vicboma1/optimization/blob/master/use/TernaryOperator.md)
 * [Dispose SWT Control](https://github.com/vicboma1/optimization/blob/master/use/DisposeSWTControl.md)
@@ -53,14 +53,14 @@ Optimization
 * [DataSource instead of DriverManager](https://github.com/vicboma1/optimization/blob/master/use/DataSourceInsteadOfDriverManager.md)
 
 
-##Close
+## Close
 * [JDBC Connections](https://github.com/vicboma1/optimization/blob/master/close/JDBCConnections.md)
 * [JDBC Resources](https://github.com/vicboma1/optimization/blob/master/close/JDBCResources.md)
 * [Stream](https://github.com/vicboma1/optimization/blob/master/close/Stream.md)
 
 
 
-##References : 
+## References : 
 
 * Java Performance Tuning By Jack Shirazi.
 * Java World, http://www.javaworld.com
